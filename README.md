@@ -69,4 +69,5 @@ CONCLUSIÓN FINAL:
 Hipótesis 1--> Se verifica que dicho país se trata de USA.
 
 Hipótesis 2--> Descartando los valores desconocidos, se verifica que pescando ha sido cuando se han producido el mayot número de ataques.
+
 Hipótesis 3--> Los valores más altos de ataque se dan en hombres que en mujeres en un rango de edad de unos 48 años.
